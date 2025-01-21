@@ -16,7 +16,7 @@
             return !$Mytemperature ? "cold" : $Mytemperature;
         }
         public function getColor() {
-            return $this->color;    
+            return $this->color;  
         }
         public function getPrice() {
             return $this->price;
